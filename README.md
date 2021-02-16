@@ -15,7 +15,5 @@ Shumzimi Matricave
 <span style="color: #0000DD; font-weight: bold">66</span> <span style="color: #0000DD; font-weight: bold">81</span> <span style="color: #0000DD; font-weight: bold">96</span> 
 <span style="color: #0000DD; font-weight: bold">102</span> <span style="color: #0000DD; font-weight: bold">126</span> <span style="color: #0000DD; font-weight: bold">150</span> 
 
-
-Process finished with exit code <span style="color: #0000DD; font-weight: bold">0</span>
 </pre></div>
 
